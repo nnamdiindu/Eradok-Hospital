@@ -1,0 +1,24 @@
+{
+  "name": "eradok-hospital",
+  "version": "1.0.0",
+  "description": "Proposed website for Eradok Hospital",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/nnamdiindu/Eradok-Hospital.git"
+  },
+  "author": "Nnamdi Odi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnamdiindu/Eradok-Hospital/issues"
+  },
+  "homepage": "https://github.com/nnamdiindu/Eradok-Hospital#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
